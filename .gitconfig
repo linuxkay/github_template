@@ -1,0 +1,10 @@
+[user]
+	name = yourGithubUserName 
+	email = youremailaddress
+[push]
+	default = simple
+# credits to https://qiita.com/shizuma/items/2b2f873a0034839e47ce
+# keep following as it is. No need to change git@github.com to username@github.com 
+[url "github:"]
+    InsteadOf = https://github.com/
+    InsteadOf = git@github.com:
