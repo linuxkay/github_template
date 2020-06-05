@@ -10,9 +10,9 @@
 
 ## Requirements
 
-## Usage
-
 ## Install
+
+## Usage
 
 ## Contribution
 
