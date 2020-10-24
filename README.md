@@ -14,7 +14,7 @@
 
 ## Usage
 
-## Contribution
+## Contributions
 
 ## Updates
 
