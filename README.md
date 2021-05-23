@@ -20,6 +20,8 @@
 
 ## Memo
 
+## Feature upgrades
+
 ## ToDo
 
 ## Licence
